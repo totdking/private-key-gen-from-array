@@ -20,3 +20,4 @@ console.log("Base64:", base64String);
 // Convert to UTF-8 (if applicable)
 const utf8String = new TextDecoder("utf-8").decode(new Uint8Array(d));
 console.log("UTF-8:", utf8String);
+//TO RUN , RUN NODE filename.js
